@@ -59,7 +59,7 @@
 ## Apa yang baru di 1.2.3
 
 - Modal editor template diatur ulang agar tidak lagi mepet navbar atau gesture bar.
-- Posisi tombol bawah diaudit ulang langsung dari device ADB dan diuji lagi pada profil layar tinggi serta layar compact.
+- Posisi tombol bawah diaudit ulang dan diuji lagi pada profil layar tinggi serta layar compact.
 - Tab bawah sekarang tetap tampil agar navigasi tidak hilang saat belum ada proyek aktif.
 - Script debug ikut diperbaiki agar launch app debug tidak salah activity.
 
