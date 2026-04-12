@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
+  "versionCode": 5,
+  "versionName": "1.2.2",
   "mandatory": true,
-  "apkUrl": "https://github.com/hfhafan/CaptureFlow/raw/main/download/CaptureFlow-v1.2.0-release.apk",
-  "portalUrl": "https://github.com/hfhafan/CaptureFlow/raw/main/download/CaptureFlow-v1.2.0-release.apk",
-  "notes": "Versi 1.2.0 membawa editor template layar penuh, perbaikan deteksi ZArchiver, serta stabilisasi popup overlay dan alur target folder."
+  "apkUrl": "https://github.com/hfhafan/CaptureFlow/raw/main/download/CaptureFlow-v1.2.2-release.apk",
+  "portalUrl": "https://github.com/hfhafan/CaptureFlow/releases/tag/v1.2.2",
+  "notes": "Versi 1.2.2 merapikan modal editor template agar tetap besar tapi aman dari overlap tombol bawah, sambil mempertahankan perbaikan update via browser eksternal."
 }

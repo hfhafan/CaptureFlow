@@ -1,12 +1,11 @@
-# CaptureFlow v1.2.0
+# CaptureFlow v1.2.2
 
 Perubahan utama:
 
-- Editor template sekarang tampil layar penuh, jadi lebih nyaman saat folderisasinya panjang dan kompleks.
-- Deteksi ZArchiver diperbaiki agar app tidak salah menganggap ZArchiver belum terpasang.
-- Alur buka folder kembali memprioritaskan ZArchiver setelah visibility package Android dibenahi.
-- Popup overlay untuk aksi cepat tetap dipertahankan dan distabilkan agar alur kerja lebih ringkas.
+- Modal editor template tetap besar, tapi tidak lagi mentok ke tepi bawah layar.
+- Tombol aksi bawah sekarang mengikuti safe area, jadi tidak overlap dengan gesture bar atau navbar.
+- Perbaikan update wajib lewat browser eksternal dari versi sebelumnya tetap ikut terbawa.
 
 Catatan:
 
-- Update ini wajib supaya alur folder, overlay, dan pembukaan target folder tetap konsisten di Android modern.
+- Update ini wajib supaya editor template lebih aman dipakai di berbagai ukuran layar Android.
