@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="download/CaptureFlow-v1.2.2-release.apk">
-    <img alt="Download APK" src="https://img.shields.io/badge/Download_APK-CaptureFlow_1.2.2-2b6de4?style=for-the-badge" />
+  <a href="download/CaptureFlow-v1.2.3-release.apk">
+    <img alt="Download APK" src="https://img.shields.io/badge/Download_APK-CaptureFlow_1.2.3-2b6de4?style=for-the-badge" />
   </a>
   <a href="panduan/CaptureFlow-panduan-pengguna.pdf">
     <img alt="Panduan PDF" src="https://img.shields.io/badge/Panduan-PDF-0f766e?style=for-the-badge" />
@@ -53,14 +53,15 @@
 
 ## Download
 
-- APK terbaru: [CaptureFlow-v1.2.2-release.apk](download/CaptureFlow-v1.2.2-release.apk)
+- APK terbaru: [CaptureFlow-v1.2.3-release.apk](download/CaptureFlow-v1.2.3-release.apk)
 - Panduan PDF: [CaptureFlow-panduan-pengguna.pdf](panduan/CaptureFlow-panduan-pengguna.pdf)
 
-## Apa yang baru di 1.2.2
+## Apa yang baru di 1.2.3
 
-- Modal editor template sekarang tetap besar, tapi sudah aman dari overlap tombol bawah dan area sistem.
-- Safe area untuk tombol aksi diperbaiki supaya nyaman dipakai di HP dengan gesture bar atau navbar.
-- Perbaikan update via browser eksternal dan deteksi ZArchiver dari versi sebelumnya tetap ikut terbawa.
+- Modal editor template diatur ulang agar tidak lagi mepet navbar atau gesture bar.
+- Posisi tombol bawah diaudit ulang langsung dari device ADB dan diuji lagi pada profil layar tinggi serta layar compact.
+- Tab bawah sekarang tetap tampil agar navigasi tidak hilang saat belum ada proyek aktif.
+- Script debug ikut diperbaiki agar launch app debug tidak salah activity.
 
 ## Kontak
 

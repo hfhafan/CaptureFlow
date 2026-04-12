@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.2",
+  "versionCode": 6,
+  "versionName": "1.2.3",
   "mandatory": true,
-  "apkUrl": "https://github.com/hfhafan/CaptureFlow/raw/main/download/CaptureFlow-v1.2.2-release.apk",
-  "portalUrl": "https://github.com/hfhafan/CaptureFlow/releases/tag/v1.2.2",
-  "notes": "Versi 1.2.2 merapikan modal editor template agar tetap besar tapi aman dari overlap tombol bawah, sambil mempertahankan perbaikan update via browser eksternal."
+  "apkUrl": "https://github.com/hfhafan/CaptureFlow/raw/main/download/CaptureFlow-v1.2.3-release.apk",
+  "portalUrl": "https://github.com/hfhafan/CaptureFlow/releases/tag/v1.2.3",
+  "notes": "Versi 1.2.3 merapikan safe zone editor template berdasarkan uji ADB langsung, menjaga tab bawah tetap tampil, dan memastikan tombol aksi tidak lagi turun ke area navbar atau gesture bar."
 }

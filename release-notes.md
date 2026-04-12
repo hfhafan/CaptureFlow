@@ -1,11 +1,12 @@
-# CaptureFlow v1.2.2
+# CaptureFlow v1.2.3
 
 Perubahan utama:
 
-- Modal editor template tetap besar, tapi tidak lagi mentok ke tepi bawah layar.
-- Tombol aksi bawah sekarang mengikuti safe area, jadi tidak overlap dengan gesture bar atau navbar.
-- Perbaikan update wajib lewat browser eksternal dari versi sebelumnya tetap ikut terbawa.
+- Modal editor template diatur ulang agar tetap besar, tapi tidak lagi turun ke area navbar.
+- Tombol aksi bawah diaudit ulang langsung dari device ADB dan dipastikan naik aman dari gesture bar.
+- Tab bawah sekarang selalu tampil, termasuk saat belum ada proyek aktif.
+- Script debug diperbaiki agar APK debug bisa langsung diluncurkan lagi setelah install.
 
 Catatan:
 
-- Update ini wajib supaya editor template lebih aman dipakai di berbagai ukuran layar Android.
+- Update ini wajib karena memperbaiki safe zone layout yang berisiko di layar Android tertentu.
