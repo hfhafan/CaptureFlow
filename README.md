@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="download/CaptureFlow-v1.1.0-release.apk">
-    <img alt="Download APK" src="https://img.shields.io/badge/Download_APK-CaptureFlow_1.1.0-2b6de4?style=for-the-badge" />
+  <a href="download/CaptureFlow-v1.2.0-release.apk">
+    <img alt="Download APK" src="https://img.shields.io/badge/Download_APK-CaptureFlow_1.2.0-2b6de4?style=for-the-badge" />
   </a>
   <a href="panduan/CaptureFlow-panduan-pengguna.pdf">
     <img alt="Panduan PDF" src="https://img.shields.io/badge/Panduan-PDF-0f766e?style=for-the-badge" />
@@ -53,8 +53,14 @@
 
 ## Download
 
-- APK terbaru: [CaptureFlow-v1.1.0-release.apk](download/CaptureFlow-v1.1.0-release.apk)
+- APK terbaru: [CaptureFlow-v1.2.0-release.apk](download/CaptureFlow-v1.2.0-release.apk)
 - Panduan PDF: [CaptureFlow-panduan-pengguna.pdf](panduan/CaptureFlow-panduan-pengguna.pdf)
+
+## Apa yang baru di 1.2.0
+
+- Editor template sekarang layar penuh, jadi lebih nyaman untuk struktur folder yang panjang.
+- Deteksi ZArchiver diperbaiki agar tidak salah fallback ke file manager bawaan saat ZArchiver sebenarnya sudah terpasang.
+- Popup overlay dan alur target folder makin stabil untuk dipakai kerja harian.
 
 ## Kontak
 
