@@ -9,11 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="download/CaptureFlow-v1.1.0-release.apk"><strong>Download APK</strong></a>
-  ·
-  <a href="panduan/CaptureFlow-panduan-pengguna.pdf"><strong>Panduan PDF</strong></a>
-  ·
-  <a href="panduan.html"><strong>Panduan Web</strong></a>
+  <a href="download/CaptureFlow-v1.1.0-release.apk">
+    <img alt="Download APK" src="https://img.shields.io/badge/Download_APK-CaptureFlow_1.1.0-2b6de4?style=for-the-badge" />
+  </a>
+  <a href="panduan/CaptureFlow-panduan-pengguna.pdf">
+    <img alt="Panduan PDF" src="https://img.shields.io/badge/Panduan-PDF-0f766e?style=for-the-badge" />
+  </a>
+  <a href="panduan.html">
+    <img alt="Panduan Web" src="https://img.shields.io/badge/Panduan-Web-b45309?style=for-the-badge" />
+  </a>
 </p>
 
 ## CaptureFlow membantu apa
