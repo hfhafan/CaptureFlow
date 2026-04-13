@@ -15,7 +15,7 @@
   <a href="panduan/CaptureFlow-panduan-pengguna.pdf">
     <img alt="Panduan PDF" src="https://img.shields.io/badge/Panduan-PDF-0f766e?style=for-the-badge" />
   </a>
-  <a href="panduan.html">
+  <a href="https://hfhafan.github.io/CaptureFlow/">
     <img alt="Panduan Web" src="https://img.shields.io/badge/Panduan-Web-b45309?style=for-the-badge" />
   </a>
 </p>
